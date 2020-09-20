@@ -7,7 +7,7 @@ import Pagination from './Pagination';
 
 import Filters from '../../components/Filters';
 
-const BASE_URL = 'https://sds1-wagner.herokuapp.com/';
+const BASE_URL = 'https://sds1-wagner.herokuapp.com';
 
 const Records = () => {
     const [recordsResponse, setRecordsResponse] = useState<RecordsResponse>();

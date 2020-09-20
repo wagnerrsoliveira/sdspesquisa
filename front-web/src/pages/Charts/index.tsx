@@ -21,7 +21,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'https://sds1-wagner.herokuapp.com/';
+const BASE_URL = 'https://sds1-wagner.herokuapp.com';
 
 const Charts = () => {
 
